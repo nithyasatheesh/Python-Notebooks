@@ -1,0 +1,1 @@
+Strings are iterable and immuatables.sts are iterables and mutablesLists are created by [] or list(). Lists are iterables and mutables
